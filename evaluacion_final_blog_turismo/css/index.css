@@ -1,0 +1,47 @@
+body{
+ background: lightblue url("../img/fondo_chile_3.jpg")  ;
+
+}
+.logo{
+  width: 200px;
+  margin-left: 1rem;
+  float: left;
+}
+
+.slogan{
+  margin-top: 5rem;
+}
+
+.img-redes-sociales{
+  width: 50px;
+}
+.contenido-central{
+
+  background-color: rgba(225, 225, 255, 0.90);
+}
+.imagen-cont{
+
+  width: 100%;
+}
+
+
+.encabezado{
+
+  background-color: rgba(222, 141, 51);
+}
+
+.contenido-inferior{
+
+  background-color: rgba(225, 225, 255, 0.50);
+}
+
+
+
+.imagen-seccion{
+   width: 100%;
+ }
+.imagen-perfil{
+  margin: auto;
+  display: block;
+
+}

@@ -1,0 +1,86 @@
+@font-face{
+    font-family:'Glyphicons Halflings';
+    src:url(../fonts/glyphicons-halflings-regular.eot);
+}
+
+body{
+  background-color: rgba(223, 167, 104, 0.95);
+
+}
+.cabecera{
+  background-color: white;
+  width: 80%;
+
+}
+
+.nav_barra{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+
+}
+.nav{
+
+  align-items: stretch;
+}
+
+
+.logo{
+  margin-top: 0;
+  margin-left: 0;
+ width: 200px;
+
+}
+.iconos-redes-sociales{
+  width: 40px;
+
+}
+
+.redes-sociales{
+     text-align: left;
+
+    margin-right: 5px;
+
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+
+.row-contenido{
+  background-color: white;
+  width: 80%;
+  margin: auto;
+
+}
+
+.img-pos-1{
+    margin-top: 80px;
+    width: 90%;
+}
+.img-pos-2{
+    margin-top: 80px;
+    width: 90%;
+}
+
+.shadow-textarea textarea.form-control::placeholder {
+font-weight: 200;
+width: 80%;
+}
+.shadow-textarea textarea.form-control {
+padding-left: 0.8rem;
+
+}
+.icono-comentario{
+  margin-top: 40px;
+width: 30px;
+
+}
+
+.area-comentario{
+    margin-top: 40px;
+}
+
+.area-buscador{
+  margin-top: 50px;
+
+}
